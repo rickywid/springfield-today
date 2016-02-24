@@ -330,6 +330,7 @@ nav ul li a:visited {
 	padding: 0px 5px;
 	box-shadow: 10px 10px 12px -7px rgba(0,0,0,0.75);
 	color: white;
+	z-index: 1000;
 }
 
 .category-topics {
