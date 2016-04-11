@@ -5,11 +5,11 @@ Springfield Today is a clone site based off of [USA Today's Website](http://usat
 
 ## Installation
 ```
-git clone https://github.com/rickywid/front-row.git
+git clone https://github.com/rickywid/springfield-today.git
 npm install
 npm start
 browser url: localhost:8080
 ```
 ## DEMO
-See a [Live Demo] (http://rickywid.github.io/front-row/)
+See a [Live Demo] (http://rickywid.github.io/springfield-today/)
 
