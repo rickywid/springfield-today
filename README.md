@@ -1,7 +1,7 @@
 # Springfield Today
 
 ## Overview
-Springfield Today is a clone site based off of [USA Today's](http://usatoday.com) website. Springfield Today was built from scratch without the use of any frameworks. The Simpson's was chosen as the content well because it's been airing for more than 27 years so there's a lot of content to use. Plus I still enjoy watching some of the earlier episodes.
+Springfield Today is a clone site based off of [USA Today's](http://usatoday.com) website. Springfield Today was built from scratch without the use of any frameworks. The Simpson's was chosen as the content well because it's been airing for more than 27 years so there's a lot of content to use. Plus it's still one of my favourite TV shows so trying to find funny Simpsons clips to use was good time.
 
 ## Installation
 ```
