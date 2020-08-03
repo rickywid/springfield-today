@@ -20,7 +20,8 @@ body {
 	color: #000;
 	font-size: 20px;
 	font-family: Arial;
-	min-width: 1320px;
+	max-width: 1320px;
+	margin: 0 auto;
 	/* The text-rendering CSS property provides information to the rendering engine 
 	about what to optimize for when rendering text.
 	optimizeLegibility: The browser emphasizes legibility over rendering speed and 
